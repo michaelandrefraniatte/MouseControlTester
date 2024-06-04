@@ -63,9 +63,10 @@
             // chbcursor
             // 
             this.chbcursor.AutoSize = true;
-            this.chbcursor.Location = new System.Drawing.Point(24, 112);
+            this.chbcursor.Location = new System.Drawing.Point(32, 138);
+            this.chbcursor.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbcursor.Name = "chbcursor";
-            this.chbcursor.Size = new System.Drawing.Size(77, 17);
+            this.chbcursor.Size = new System.Drawing.Size(92, 20);
             this.chbcursor.TabIndex = 0;
             this.chbcursor.Text = "F1 : Cursor";
             this.chbcursor.UseVisualStyleBackColor = true;
@@ -73,9 +74,10 @@
             // chbbrink
             // 
             this.chbbrink.AutoSize = true;
-            this.chbbrink.Location = new System.Drawing.Point(24, 146);
+            this.chbbrink.Location = new System.Drawing.Point(32, 180);
+            this.chbbrink.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbbrink.Name = "chbbrink";
-            this.chbbrink.Size = new System.Drawing.Size(71, 17);
+            this.chbbrink.Size = new System.Drawing.Size(83, 20);
             this.chbbrink.TabIndex = 3;
             this.chbbrink.Text = "F2 : Brink";
             this.chbbrink.UseVisualStyleBackColor = true;
@@ -83,9 +85,10 @@
             // chbtitanfall
             // 
             this.chbtitanfall.AutoSize = true;
-            this.chbtitanfall.Location = new System.Drawing.Point(24, 181);
+            this.chbtitanfall.Location = new System.Drawing.Point(32, 223);
+            this.chbtitanfall.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbtitanfall.Name = "chbtitanfall";
-            this.chbtitanfall.Size = new System.Drawing.Size(84, 17);
+            this.chbtitanfall.Size = new System.Drawing.Size(100, 20);
             this.chbtitanfall.TabIndex = 4;
             this.chbtitanfall.Text = "F3 : Titanfall";
             this.chbtitanfall.UseVisualStyleBackColor = true;
@@ -93,9 +96,10 @@
             // chbbo3
             // 
             this.chbbo3.AutoSize = true;
-            this.chbbo3.Location = new System.Drawing.Point(24, 216);
+            this.chbbo3.Location = new System.Drawing.Point(32, 266);
+            this.chbbo3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbbo3.Name = "chbbo3";
-            this.chbbo3.Size = new System.Drawing.Size(68, 17);
+            this.chbbo3.Size = new System.Drawing.Size(79, 20);
             this.chbbo3.TabIndex = 5;
             this.chbbo3.Text = "F4 : BO3";
             this.chbbo3.UseVisualStyleBackColor = true;
@@ -103,9 +107,10 @@
             // chbfake
             // 
             this.chbfake.AutoSize = true;
-            this.chbfake.Location = new System.Drawing.Point(24, 251);
+            this.chbfake.Location = new System.Drawing.Point(32, 309);
+            this.chbfake.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbfake.Name = "chbfake";
-            this.chbfake.Size = new System.Drawing.Size(71, 17);
+            this.chbfake.Size = new System.Drawing.Size(84, 20);
             this.chbfake.TabIndex = 6;
             this.chbfake.Text = "F5 : Fake";
             this.chbfake.UseVisualStyleBackColor = true;
@@ -113,9 +118,10 @@
             // chbmetro
             // 
             this.chbmetro.AutoSize = true;
-            this.chbmetro.Location = new System.Drawing.Point(24, 286);
+            this.chbmetro.Location = new System.Drawing.Point(32, 352);
+            this.chbmetro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbmetro.Name = "chbmetro";
-            this.chbmetro.Size = new System.Drawing.Size(74, 17);
+            this.chbmetro.Size = new System.Drawing.Size(87, 20);
             this.chbmetro.TabIndex = 7;
             this.chbmetro.Text = "F6 : Metro";
             this.chbmetro.UseVisualStyleBackColor = true;
@@ -123,9 +129,10 @@
             // chbmw3
             // 
             this.chbmw3.AutoSize = true;
-            this.chbmw3.Location = new System.Drawing.Point(24, 323);
+            this.chbmw3.Location = new System.Drawing.Point(32, 398);
+            this.chbmw3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbmw3.Name = "chbmw3";
-            this.chbmw3.Size = new System.Drawing.Size(73, 17);
+            this.chbmw3.Size = new System.Drawing.Size(84, 20);
             this.chbmw3.TabIndex = 8;
             this.chbmw3.Text = "F7 : MW3";
             this.chbmw3.UseVisualStyleBackColor = true;
@@ -133,9 +140,10 @@
             // chbxaim
             // 
             this.chbxaim.AutoSize = true;
-            this.chbxaim.Location = new System.Drawing.Point(24, 359);
+            this.chbxaim.Location = new System.Drawing.Point(32, 442);
+            this.chbxaim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbxaim.Name = "chbxaim";
-            this.chbxaim.Size = new System.Drawing.Size(71, 17);
+            this.chbxaim.Size = new System.Drawing.Size(84, 20);
             this.chbxaim.TabIndex = 9;
             this.chbxaim.Text = "F8 : XAim";
             this.chbxaim.UseVisualStyleBackColor = true;
@@ -143,9 +151,10 @@
             // chbfortnite
             // 
             this.chbfortnite.AutoSize = true;
-            this.chbfortnite.Location = new System.Drawing.Point(24, 433);
+            this.chbfortnite.Location = new System.Drawing.Point(32, 533);
+            this.chbfortnite.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbfortnite.Name = "chbfortnite";
-            this.chbfortnite.Size = new System.Drawing.Size(88, 17);
+            this.chbfortnite.Size = new System.Drawing.Size(104, 20);
             this.chbfortnite.TabIndex = 10;
             this.chbfortnite.Text = "F10 : Fortnite";
             this.chbfortnite.UseVisualStyleBackColor = true;
@@ -153,18 +162,20 @@
             // chbwarface
             // 
             this.chbwarface.AutoSize = true;
-            this.chbwarface.Location = new System.Drawing.Point(24, 396);
+            this.chbwarface.Location = new System.Drawing.Point(32, 487);
+            this.chbwarface.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbwarface.Name = "chbwarface";
-            this.chbwarface.Size = new System.Drawing.Size(85, 17);
+            this.chbwarface.Size = new System.Drawing.Size(101, 20);
             this.chbwarface.TabIndex = 11;
             this.chbwarface.Text = "F9 :Warface";
             this.chbwarface.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(119, 108);
+            this.button1.Location = new System.Drawing.Point(159, 133);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(32, 23);
+            this.button1.Size = new System.Drawing.Size(43, 28);
             this.button1.TabIndex = 12;
             this.button1.Text = "...";
             this.button1.UseVisualStyleBackColor = true;
@@ -172,9 +183,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(119, 142);
+            this.button2.Location = new System.Drawing.Point(159, 175);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(32, 23);
+            this.button2.Size = new System.Drawing.Size(43, 28);
             this.button2.TabIndex = 13;
             this.button2.Text = "...";
             this.button2.UseVisualStyleBackColor = true;
@@ -182,9 +194,10 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(119, 175);
+            this.button3.Location = new System.Drawing.Point(159, 215);
+            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(32, 23);
+            this.button3.Size = new System.Drawing.Size(43, 28);
             this.button3.TabIndex = 14;
             this.button3.Text = "...";
             this.button3.UseVisualStyleBackColor = true;
@@ -192,9 +205,10 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(119, 212);
+            this.button4.Location = new System.Drawing.Point(159, 261);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(32, 23);
+            this.button4.Size = new System.Drawing.Size(43, 28);
             this.button4.TabIndex = 15;
             this.button4.Text = "...";
             this.button4.UseVisualStyleBackColor = true;
@@ -202,9 +216,10 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(119, 247);
+            this.button5.Location = new System.Drawing.Point(159, 304);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(32, 23);
+            this.button5.Size = new System.Drawing.Size(43, 28);
             this.button5.TabIndex = 16;
             this.button5.Text = "...";
             this.button5.UseVisualStyleBackColor = true;
@@ -212,9 +227,10 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(119, 282);
+            this.button6.Location = new System.Drawing.Point(159, 347);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(32, 23);
+            this.button6.Size = new System.Drawing.Size(43, 28);
             this.button6.TabIndex = 17;
             this.button6.Text = "...";
             this.button6.UseVisualStyleBackColor = true;
@@ -222,9 +238,10 @@
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(119, 319);
+            this.button7.Location = new System.Drawing.Point(159, 393);
+            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(32, 23);
+            this.button7.Size = new System.Drawing.Size(43, 28);
             this.button7.TabIndex = 18;
             this.button7.Text = "...";
             this.button7.UseVisualStyleBackColor = true;
@@ -232,9 +249,10 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(119, 353);
+            this.button8.Location = new System.Drawing.Point(159, 434);
+            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(32, 23);
+            this.button8.Size = new System.Drawing.Size(43, 28);
             this.button8.TabIndex = 19;
             this.button8.Text = "...";
             this.button8.UseVisualStyleBackColor = true;
@@ -242,9 +260,10 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(119, 392);
+            this.button9.Location = new System.Drawing.Point(159, 482);
+            this.button9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(32, 23);
+            this.button9.Size = new System.Drawing.Size(43, 28);
             this.button9.TabIndex = 20;
             this.button9.Text = "...";
             this.button9.UseVisualStyleBackColor = true;
@@ -252,9 +271,10 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(119, 429);
+            this.button10.Location = new System.Drawing.Point(159, 528);
+            this.button10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(32, 23);
+            this.button10.Size = new System.Drawing.Size(43, 28);
             this.button10.TabIndex = 21;
             this.button10.Text = "...";
             this.button10.UseVisualStyleBackColor = true;
@@ -263,42 +283,47 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(21, 19);
+            this.label1.Location = new System.Drawing.Point(28, 23);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(42, 13);
+            this.label1.Size = new System.Drawing.Size(52, 16);
             this.label1.TabIndex = 22;
             this.label1.Text = "slowing";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(21, 49);
+            this.label2.Location = new System.Drawing.Point(28, 60);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(43, 13);
+            this.label2.Size = new System.Drawing.Size(54, 16);
             this.label2.TabIndex = 23;
             this.label2.Text = "dividing";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(92, 19);
+            this.textBox1.Location = new System.Drawing.Point(123, 23);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(59, 20);
+            this.textBox1.Size = new System.Drawing.Size(77, 22);
             this.textBox1.TabIndex = 24;
             this.textBox1.Text = "20";
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(92, 46);
+            this.textBox2.Location = new System.Drawing.Point(123, 57);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(59, 20);
+            this.textBox2.Size = new System.Drawing.Size(77, 22);
             this.textBox2.TabIndex = 25;
             this.textBox2.Text = "1.5";
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(76, 508);
+            this.button11.Location = new System.Drawing.Point(101, 625);
+            this.button11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(25, 23);
+            this.button11.Size = new System.Drawing.Size(33, 28);
             this.button11.TabIndex = 26;
             this.button11.Text = "?";
             this.button11.UseVisualStyleBackColor = true;
@@ -306,26 +331,29 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(92, 73);
+            this.textBox3.Location = new System.Drawing.Point(123, 90);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(59, 20);
+            this.textBox3.Size = new System.Drawing.Size(77, 22);
             this.textBox3.TabIndex = 28;
             this.textBox3.Text = "0.15";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(21, 76);
+            this.label3.Location = new System.Drawing.Point(28, 94);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(39, 13);
+            this.label3.Size = new System.Drawing.Size(49, 16);
             this.label3.TabIndex = 27;
             this.label3.Text = "adding";
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(119, 467);
+            this.button12.Location = new System.Drawing.Point(159, 575);
+            this.button12.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(32, 23);
+            this.button12.Size = new System.Drawing.Size(43, 28);
             this.button12.TabIndex = 30;
             this.button12.Text = "...";
             this.button12.UseVisualStyleBackColor = true;
@@ -334,18 +362,19 @@
             // chbmc
             // 
             this.chbmc.AutoSize = true;
-            this.chbmc.Location = new System.Drawing.Point(24, 471);
+            this.chbmc.Location = new System.Drawing.Point(32, 580);
+            this.chbmc.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chbmc.Name = "chbmc";
-            this.chbmc.Size = new System.Drawing.Size(69, 17);
+            this.chbmc.Size = new System.Drawing.Size(80, 20);
             this.chbmc.TabIndex = 29;
             this.chbmc.Text = "F11 : MC";
             this.chbmc.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(184, 533);
+            this.ClientSize = new System.Drawing.Size(245, 656);
             this.Controls.Add(this.button12);
             this.Controls.Add(this.chbmc);
             this.Controls.Add(this.textBox3);
@@ -376,10 +405,12 @@
             this.Controls.Add(this.chbbrink);
             this.Controls.Add(this.chbcursor);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "MouseControlTester";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Shown += new System.EventHandler(this.Form1_Shown);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 

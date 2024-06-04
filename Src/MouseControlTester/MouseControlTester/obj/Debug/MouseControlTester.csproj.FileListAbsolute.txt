@@ -8,3 +8,13 @@ C:\Users\mic\Documents\GitHub\MouseControlTester\Src\MouseControlTester\MouseCon
 C:\Users\mic\Documents\GitHub\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.exe
 C:\Users\mic\Documents\GitHub\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.pdb
 C:\Users\mic\Documents\GitHub\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.csprojAssemblyReference.cache
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\bin\Debug\MouseControlTester.exe.config
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\bin\Debug\MouseControlTester.exe
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\bin\Debug\MouseControlTester.pdb
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.Form1.resources
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.Properties.Resources.resources
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.exe
+C:\Users\micha\Documents\github\MouseControlTester\Src\MouseControlTester\MouseControlTester\obj\Debug\MouseControlTester.pdb
